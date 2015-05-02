@@ -39,11 +39,10 @@
     ],
     "repository":{
         "type":"git",
-        "url":"https://github.com/php-mime-mail-parser/php-mime-mail-parser.git"
+        "url":"https://github.com/muffycompo/php-mime-mail-parser.git"
     },
     "require": {
-        "php":           ">=5.4.0",
-        "ext-mailparse": "*"
+        "php":           ">=5.4.0"
     },
     "require-dev": {
         "phpunit/phpunit":              "4.*",
